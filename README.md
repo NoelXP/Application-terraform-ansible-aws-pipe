@@ -1,4 +1,5 @@
-# Terra-Ansible-AWS
-Refresher to use terraform coupled with Ansible to spin-up AWS resources
+application running on 2 ec2 instances, front end back end.
 
-https://www.itwonderlab.com/terraform-aws-ansible/
+Terraform creates the infrastructure on aws, then configured with Ansible.
+
+Do not know what the application will be yet.
